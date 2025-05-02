@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This is a fully responsive and modern 
 
 ## 🚀 Live Demo
 
-[myweb-chi-livid.vercel.app](#) <!-- Replace # with your actual deployed site URL (e.g., GitHub Pages, Vercel, Netlify) -->
+🌐 [View Live Website](https://myweb-chi-livid.vercel.app)
 
 ## 📌 Features
 
@@ -19,11 +19,11 @@ Welcome to my personal portfolio website! This is a fully responsive and modern 
 
 ## 🧰 Tech Stack
 
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap 5
-- Font Awesome 6
+- HTML5  
+- CSS3  
+- JavaScript  
+- Bootstrap 5  
+- Font Awesome 6  
 - AOS (Animate On Scroll)
 
 ## 📁 Folder Structure
